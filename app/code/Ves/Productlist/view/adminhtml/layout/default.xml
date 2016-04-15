@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+	<head>
+		<css src="Ves_Productlist::css/styles.css" />
+		<css src="jquery/fileUploader/css/jquery.fileupload-ui.css"/>
+	</head>
+	<update handle="editor"/>
+	<body>
+		<referenceContainer name="js">
+			<block class="Magento\Framework\View\Element\Template" template="Ves_Productlist::wysiwyg/js.phtml" name="ves.productlist.wysiwyg.js"/>
+		</referenceContainer>
+	</body>
+</page>

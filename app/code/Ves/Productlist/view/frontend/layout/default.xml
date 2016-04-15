@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+	<head>
+
+		<css src="Ves_All::lib/owl.carousel/assets/owl.carousel.css" />
+		<css src="Ves_All::lib/bootstrap/css/bootstrap.min.css" />
+		<css src="Ves_All::lib/fancybox/jquery.fancybox.css" />
+		<css src="Ves_Productlist::css/styles.css" />
+		<!--
+		<script src="Ves_Productlist::js/bootstrap.min.js" />
+		<script src="Ves_Productlist::js/jquery.fancybox.pack.js" />
+		<script src="Ves_Productlist::js/owl.carousel.min.js" />
+		-->
+	</head>
+	<body>
+		<referenceContainer name="before.body.end">
+			<block class="\\Magento\Framework\View\Element\Template" name="ves.productlist.ajax" template="Ves_Productlist::ajax/js.phtml"/>
+		</referenceContainer>
+	</body>
+</page>
