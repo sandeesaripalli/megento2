@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Plugin/Fixtures/plugin-v4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/phpmd/phpmd/src/main/php" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Autoload/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Autoload/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test/Autoload/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test/Autoload/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/lusitanian/oauth/tests" isTestSource="true" packagePrefix="OAuthTest" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/lusitanian/oauth/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/lusitanian/oauth/tests" isTestSource="true" packagePrefix="OAuth" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento-composer-installer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/lusitanian/oauth/tests/Mocks/Common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/sjparkinson/static-review/src" isTestSource="false" packagePrefix="StaticReview" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/fabpot/php-cs-fixer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/symfony/console" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/console" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/var/generation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/seld/jsonlint/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/seld/jsonlint/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/pelago/emogrifier" isTestSource="false" packagePrefix="Pelago" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite/Magento/Setup/Console/Command/_files/root/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Setup/Console/Command/_files/root/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/api-functional/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/api-functional/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/functional/tests/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/functional/tests/app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/framework/tests/unit/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/framework/tests/unit/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/static/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/static/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/static/framework/tests/unit/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/static/framework/tests/unit/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/setup/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/setup/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/api-functional/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/api-functional/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/dev/tests/integration/testsuite" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/api-functional/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/api-functional/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/static/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/static/framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite/Magento/Setup/Module/I18n/Dictionary/_files/source/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite/Magento/Setup/Module/Dependency/_files/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Setup/Module/I18n/Dictionary/_files/source/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Setup/Module/Dependency/_files/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/functional/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/functional/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/functional/testsuites" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/functional/testsuites" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite/Magento/Framework/Api/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev/tests/integration/testsuite/Magento/Framework/DataObject/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Framework/Api/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Framework/DataObject/_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/setup/src/Magento/Setup/Test/Unit/Module/Di/_files/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/Di/_files/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/magento/framework/Code/Test/Unit/_files/app/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/composer/composer/tests/Composer/Test" isTestSource="true" packagePrefix="Composer" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/composer/composer/tests/Composer/Test" isTestSource="true" packagePrefix="Composer" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/pdepend/pdepend/src/main/php" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/update/vendor/justinrainbow/json-schema/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/justinrainbow/json-schema/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/tedivm/jshrink/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/tedivm/jshrink/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/magento/zendframework1/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/vendor/magento/zendframework1/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
